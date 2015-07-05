@@ -1,5 +1,5 @@
 # AntiCat
-AntiCat is a MacOSX application that launches a transparent, full-screen window 
+AntiCat is a MacOSX application that launches a transparent, borderless, full-screen window 
 over the current screen and hides the menu bar etc.
 
 ##Why?
